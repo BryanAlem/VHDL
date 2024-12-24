@@ -18,3 +18,4 @@ entity THERMO is
     end process;
     end BEHAV;	
 -- This comment is for testing.
+--Second Comment
